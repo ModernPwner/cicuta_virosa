@@ -26,4 +26,5 @@ We give permissions to **@CStar_OW** to use and modify the exploit for Odyssey -
 But we hope that all modifications will be open sourced.  
 
 # PAC bypass
-For the moment we have a brand new technique to bypass PAC but we decided to not include such critical stuff here. Maybe we'll post a PAC bypass along with the iOS 14.5 exploit (this is in progress, we have a 0-day vuln and going to publish exploit after Apple patch). 
+For the moment we have a brand new technique to bypass PAC but we decided to not include such critical stuff here.  
+**Maybe** we'll post a PAC bypass along with the iOS 14.5 exploit. This is in progress, we **may** publish 14.5 exploit after Apple patch. 
