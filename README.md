@@ -8,9 +8,7 @@ iOS\iPadOS 14.3 kernel LPE for all devices by **@ModernPwner**. Please follow us
 - Reliability is amazing on our A13 and A10 devices
 
 # The vuln
-Impact: A malicious application may be able to elevate privileges. Apple is aware of a report that this issue may have been actively exploited.  
-Description: A race condition was addressed with improved locking.  
-CVE-2021-1782
+**CVE-2021-1782**: A race condition in user_data_get_value() leading to ivac entry uaf. This issue has been actively exploited in the wild with the WebKit exploit. We might release this RCE chain in the future.
 
 # Writeup
 Soon.
